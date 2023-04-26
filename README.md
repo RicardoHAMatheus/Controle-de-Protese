@@ -1,4 +1,4 @@
-# Conectar o Myo armband ao Raspberry Pi Pico com Thonny
+# Conectar o Myo armband ao Raspberry Pi Pico em MicroPython utilizando Thonny 
 
 **1.** Certifique-se de que o Raspberry Pi Pico esteja configurado com o MicroPython. Se você ainda não configurou o MicroPython no Raspberry Pi Pico.
 

@@ -1,6 +1,6 @@
 from pymyo import Myo
 
-@myo.stream_emg
+@pymyo.stream_emg
 def on_emg_data(myo, timestamp, emg):
   print(emg)
 
